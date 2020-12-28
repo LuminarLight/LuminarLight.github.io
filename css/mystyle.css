@@ -28,6 +28,15 @@
         background-color: indigo;
     }
 
+    .nav-link{
+        border-top: 5px solid indigo;
+    }
+
+    .jobbhatar{
+        border-right: 5px solid indigo;      
+        border-top-right-radius: 20px;
+    }
+
     .active>a{
         text-decoration: underline !important; 
     }
